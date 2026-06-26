@@ -11,10 +11,10 @@ export const areas = [
         type: "景點",
         description: "以貓咪住持與貓主題裝飾聞名的特色寺院。",
         imgs: [
-          "/img/nyannyanji4.jpg",
-          "/img/nyannyanji2.jpg",
-          "/img/nyannyanji3.jpg",
-          "/img/nyannyanji1.jpg",
+          "img/nyannyanji4.jpg",
+          "img/nyannyanji2.jpg",
+          "img/nyannyanji3.jpg",
+          "img/nyannyanji1.jpg",
         ],
       },
       {
@@ -39,10 +39,10 @@ export const areas = [
         description:
           "是日本全國約 450 座貴船神社的總本社，主祀掌管水源與降雨的水神。。夏季時，神社周邊會架設於清流之上的「川床」，旅客能在此享用僅限5月至9月供應的極致消暑美食——「流水涼麵」",
         imgs: [
-          "/img/kifune1.jpg",
-          "/img/kifune2.jpg",
-          "/img/kifune3.jpg",
-          "/img/kifune4.jpg",
+          "img/kifune1.jpg",
+          "img/kifune2.jpg",
+          "img/kifune3.jpg",
+          "img/kifune4.jpg",
         ],
       },
     ],
@@ -61,10 +61,10 @@ export const areas = [
         description:
           "由百年歷史的澡堂改建而成的特色咖啡廳，被登錄為有形文化財，也是電影《明天，我要和昨天的妳約會》的取景地點，推薦份量十足的午間套餐。",
         imgs: [
-          "/img/sarasa1.jpg",
-          "/img/sarasa2.jpg",
-          "/img/sarasa3.jpg",
-          "/img/sarasa4.jpg",
+          "img/sarasa1.jpg",
+          "img/sarasa2.jpg",
+          "img/sarasa3.jpg",
+          "img/sarasa4.jpg",
         ],
       },
       {
@@ -94,9 +94,9 @@ export const areas = [
         description:
           "該神社供奉平安時代傳奇陰陽師安倍晴明，以驅魔、除厄及祈求無病息災聞名。",
         imgs: [
-          "/img/seimeijinja2.jpg",
-          "/img/seimeijinja1.jpg",
-          "/img/seimeijinja3.jpg",
+          "img/seimeijinja2.jpg",
+          "img/seimeijinja1.jpg",
+          "img/seimeijinja3.jpg",
         ],
       },
     ],
@@ -113,7 +113,7 @@ export const areas = [
         name: "清水寺",
         type: "景點",
         description: "京都最具代表性的世界文化遺產，以清水舞台與四季景色聞名。",
-        imgs: ["/img/kiyomizu1.jpg", "/img/kiyomizu2.jpg"],
+        imgs: ["img/kiyomizu1.jpg", "img/kiyomizu2.jpg"],
       },
     ],
   },
@@ -128,7 +128,7 @@ export const areas = [
         name: "新風館",
         type: "景點",
         description: "結合設計選物、咖啡廳與飯店的複合式商場，深受年輕人喜愛。",
-        imgs: ["/img/shinpuhkan1.jpg", "/img/shinpuhkan2.jpg"],
+        imgs: ["img/shinpuhkan1.jpg", "img/shinpuhkan2.jpg"],
       },
     ],
   },
