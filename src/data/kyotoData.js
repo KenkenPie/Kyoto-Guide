@@ -23,7 +23,7 @@ export const areas = [
         type: "活動",
         description:
           "京都歷史最悠久、規模最大的露天手工藝市集之一，每個月的 15 日在「百萬遍知恩寺」境內舉辦。",
-        imgs: ["/img/chionji1.jpg", "/img/chionji2.jpg"],
+        imgs: ["img/chionji1.jpg", "img/chionji2.jpg"],
       },
       {
         id: "yuwado",
@@ -72,7 +72,7 @@ export const areas = [
         name: "北野天滿宮",
         type: "景點",
         description: "供奉學問之神，也是京都知名賞梅名所。",
-        imgs: ["/img/kitano1.jpg", "/img/kitano2.jpg"],
+        imgs: ["img/kitano1.jpg", "img/kitano2.jpg"],
       },
       {
         id: "KotobanoHaoto",
@@ -80,11 +80,11 @@ export const areas = [
         type: "美食",
         description:
           "西陣巷弄內的町家ブックカフェ（書本咖啡廳）。濃厚的日式風情， 店主收藏的無數貓咪雜貨、繪本與每季的特色貓咪聖代吸引了許多貓奴來朝聖。",
-        imgs: [
-          "/img/Kotoba1.jpg",
-          "/img/Kotoba2.jpg",
-          "/img/Kotoba3.jpg",
-          "/img/Kotoba4.jpg",
+        img+s: [
+          "img/Kotoba1.jpg",
+          "img/Kotoba2.jpg",
+          "img/Kotoba3.jpg",
+          "img/Kotoba4.jpg",
         ],
       },
       {

@@ -7,10 +7,6 @@ import SpotDetail from "../views/SpotDetail.vue";
 const routes = [
   {
     path: "/",
-    redirect: "/areas",
-  },
-  {
-    path: "/areas",
     component: AreaList,
   },
   {
