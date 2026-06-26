@@ -30,7 +30,7 @@ export const areas = [
         name: "友和堂",
         type: "美食",
         description: "提供多種口味、真材實料、甜而不膩的義式冰淇淋。",
-        imgs: ["/img/yuwado3.jpg", "/img/yuwado2.jpg", "/img/yuwado1.jpg"],
+        imgs: ["img/yuwado3.jpg", "img/yuwado2.jpg", "img/yuwado1.jpg"],
       },
       {
         id: "kifune",
