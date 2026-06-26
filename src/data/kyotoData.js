@@ -80,7 +80,7 @@ export const areas = [
         type: "美食",
         description:
           "西陣巷弄內的町家ブックカフェ（書本咖啡廳）。濃厚的日式風情， 店主收藏的無數貓咪雜貨、繪本與每季的特色貓咪聖代吸引了許多貓奴來朝聖。",
-        img+s: [
+        imgs: [
           "img/Kotoba1.jpg",
           "img/Kotoba2.jpg",
           "img/Kotoba3.jpg",
